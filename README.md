@@ -2,7 +2,7 @@
 
 [MOD] Quasar AtmoX Ultimate Sound Mod [Official] [LP/MM/N]
 
-This is the official repo of the well known 'Quasar AtmoX Ultimate Sound Mod'.
+## The official repo of the well known 'Quasar AtmoX Ultimate Sound Mod' has been moved to: https://github.com/Quasar-AtmoX
 
 What is Quasar AtmoX?
 Ans: It includes the best sound enhancement systems in one ultimate mod called Quasar AtmoX:
